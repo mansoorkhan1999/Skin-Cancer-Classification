@@ -24,3 +24,15 @@ TensorFlow
 Streamlit
 Pillow
 NumPy
+# Usage
+Open the application in your web browser. By default, it runs on http://localhost:8501.
+Fill in the patient details, including Patient ID, Name, Age, Gender, and Anatomical Site.
+Upload an image of the skin lesion.
+Click the UPLOAD! button to classify the skin lesion.
+The model will predict the type of skin lesion and recommend a doctor based on the classification result.
+# Our Web Application
+Here are some snapshots of the web application:
+<img width="547" alt="image" src="https://github.com/user-attachments/assets/29620114-e2fd-4364-a5a4-97d12dd2e99d">
+<img width="464" alt="image" src="https://github.com/user-attachments/assets/5cc7426d-7363-4287-8add-c9dbf0fff4ad">
+<img width="487" alt="image" src="https://github.com/user-attachments/assets/2a583522-a25b-4f58-b0fc-179f8e262999">
+
